@@ -1,7 +1,5 @@
 # CPS803-FinalProject
 
-Here is a possible readme for this document:
-
 # Solving a Practical Clustering Problem: Exploring the Daily Kos Dataset
 
 This project is a machine learning assignment from Toronto Metropolitan University. The goal is to apply the KMeans algorithm to cluster a bag of words dataset from the Daily Kos political blog.
